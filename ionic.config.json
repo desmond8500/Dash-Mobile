@@ -1,0 +1,7 @@
+{
+  "name": "Dash Mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
